@@ -1,1 +1,5 @@
 print("hello world")
+print("bonjour!")
+print("ciao")
+print("guten tag")
+print(" good morning ")
